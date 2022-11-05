@@ -1,0 +1,54 @@
+
+html{
+    background-color: black;
+}
+
+
+div{  
+    border: 10px double white;
+    margin: 3%;
+    padding: 3%;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: cursive;
+    color: aqua;
+    line-height: 50%; 
+
+}
+
+
+img{
+    height: 90px;
+    margin-left: 77%; 
+
+    border: 5px double red;
+    border-radius: 0px;
+}
+
+
+h3{
+    margin-top: -9%;
+}
+h1{
+    color: rgb(255, 0, 0);
+    margin-top: 8%;
+}
+
+
+
+
+.goback{
+    font-size: 15px;
+    color: rgb(255, 254, 254);
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+} 
+
+.button{
+    
+    background-color: rgb(69, 64, 163);
+    
+}
