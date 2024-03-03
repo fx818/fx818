@@ -6,6 +6,7 @@
 - 📫 How to reach me ... Contact me at :
 -                     1. Whatsapp at 9151636108
 -                     2. Instagram at 818anurag
+-                     3. LinkedIn @ Anurag Upadhyay
 
 <!---
 fx818/fx818 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
